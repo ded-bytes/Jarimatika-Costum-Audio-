@@ -8,8 +8,7 @@
             <Close  :size="30" fillColor="#FFFFFF"/>
         </button>
         <div class="w-1/2 max-w-[400px] mx-auto relative flex items-center">
-            <div class="absolute z-20 font-bold rounded-xl text-white text-[20px] py-1.5 px-3 m-1">{{ currentArtist.name }}</div>
-            <div class="absolute right-0 z-20 font-bold rounded-xl text-white text-[20px] py-1.5 px-3 m-1">{{ currentTrack.name }}</div>
+
             <div class="relative">
                 <img class="rounded-3xl shadow-2xl" :src="currentArtist.albumCover">
                 <div class="absolute z-10 blur-2xl rounded-3xl top-0 w-full h-full bg-black bg-opacity-10" />

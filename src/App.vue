@@ -48,7 +48,7 @@ onBeforeMount(() => {
       </div>
       <img
         class="rounded-full w-[33px]"
-        src="https://yt3.ggpht.com/e9o-24_frmNSSVvjS47rT8qCHgsHNiedqgXbzmrmpsj6H1ketcufR1B9vLXTZRa30krRksPj=s88-c-k-c0x00ffffff-no-rj-mo"
+        src="D:\Dev\Kak Ikki\AUDIO\deezer-clone\public\images\quran.png"
       >
     </div>
   </div>
@@ -59,16 +59,13 @@ onBeforeMount(() => {
   >
     <div class="w-full pl-6 pt-3 cursor-pointer">
       <RouterLink to="/">
-        <img width="130" src="/images/deezer-logo.png">
+        <img width="130" src="/images/quran.png">
       </RouterLink>
     </div>
 
     <div class="mt-[53px]"></div>
 
-    <SideMenuItem iconString="music" :iconSize="20" pageUrl="/" name="Music" />
-    <SideMenuItem iconString="podcast" :iconSize="20" pageUrl="/podcasts" name="Podcasts" />
     <SideMenuItem iconString="explore" :iconSize="20" pageUrl="/artist" name="Explore" />
-    <SideMenuItem iconString="favourite" :iconSize="20" pageUrl="/favourite" name="Favourites" />
 
     <div class="text-[#A2A2AD] font-light text-[12px] pl-[62px] mt-[25px]">
       <div class="py-[9px] hover:text-[#EF5465] cursor-pointer">Favourite tracks</div>

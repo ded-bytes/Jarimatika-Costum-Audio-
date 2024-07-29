@@ -1,73 +1,187 @@
 {
-    "name": "Diaries Of A Hero",
-    "albumCover": "/images/albumCovers/DiariesOfAHero.png",
-    "releaseYear": "2014",
+    "name": "Tahfidz Jarimatika (Costum Audio)",
+    "albumCover": "/images/albumCovers/quran.png",
+    "releaseYear": "2024",
     "tracks": [
         {
             "id": 1,
-            "name": "Intro",
-            "path": "/songs/Intro.mp3",
-            "lyrics": false
+            "name": "An Naba (Mundur)",
+            "path": "/songs/1. An - Naba (Mundur).mp3",
+            "lyrics": true
         },
         {
             "id": 2,
-            "name": "Solitude",
-            "path": "/songs/Solitude.mp3",
+            "name": "An Naba (Ganjil)",
+            "path": "/songs/2. An - Naba (Ganjil).mp3",
             "lyrics": true
         },
         {
             "id": 3,
-            "name": "Manimal",
-            "path": "/songs/Manimal.mp3",
-            "lyrics": false
+            "name": "An Naba (Genap)",
+            "path": "/songs/3. An - Naba (Genap).mp3",
+            "lyrics": true
         },
         {
             "id": 4,
-            "name": "J5",
-            "path": "/songs/J5.mp3",
-            "lyrics": false
+            "name": "An Naziat (Mundur)",
+            "path": "/songs/4. An - Naziat (Mundur).mp3",
+            "lyrics": true
         },
         {
             "id": 5,
-            "name": "Throne",
-            "path": "/songs/Throne.mp3",
+            "name": "An - Naziat (Ganjil)",
+            "path": "/songs/5. An - Naziat (Ganjil).mp3",
             "lyrics": true
         },
         {
             "id": 6,
-            "name": "Scarwhores",
-            "path": "/songs/Scarwhores.mp3",
-            "lyrics": false
+            "name": "An - Naziat (Genap)",
+            "path": "/songs/6. An - Naziat (Genap).mp3",
+            "lyrics": true
         },
         {
             "id": 7,
-            "name": "Highschool Funeral",
-            "path": "/songs/Highschool Funeral.mp3",
-            "lyrics": false
+            "name": "Abasa (Mundur)",
+            "path": "/songs/7. Abasa (Mundur).mp3",
+            "lyrics": true
         },
         {
             "id": 8,
-            "name": "Get Away",
-            "path": "/songs/Get Away.mp3",
-            "lyrics": false
+            "name": "Abasa (Ganjil)",
+            "path": "/songs/8. Abasa (Ganjil).mp3",
+            "lyrics": true
         },
         {
             "id": 9,
-            "name": "Victims of Chaos",
-            "path": "/songs/Victims of Chaos.mp3",
-            "lyrics": false
+            "name": "Abasa (Genap)",
+            "path": "/songs/9. Abasa (Genap).mp3",
+            "lyrics": true
         },
         {
             "id": 10,
-            "name": "Neruda",
-            "path": "/songs/Neruda.mp3",
-            "lyrics": false
+            "name": "At - Takwir (Mundur)",
+            "path": "/songs/10. At - Takwir (Mundur).mp3",
+            "lyrics": true
         },
         {
             "id": 11,
-            "name": "Brother",
-            "path": "/songs/Brother.mp3",
-            "lyrics": false
+            "name": "At - Takwir (Ganjil)",
+            "path": "/songs/11. At - Takwir (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 12,
+            "name": "At - Takwir (Genap)",
+            "path": "/songs/12. At - Takwir (Genap).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 13,
+            "name": "Al Infithar (Mundur)",
+            "path": "/songs/13. Al Infithar (Mundur).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 14,
+            "name": "Al Infithar (Ganjil)",
+            "path": "/songs/14. Al Infithar (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 15,
+            "name": "Al Infithar (Genap)",
+            "path": "/songs/15. Al Infithar (Genap).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 16,
+            "name": "Al Mutaffifin (Mundur)",
+            "path": "/songs/16. Al Mutaffifin (Mundur).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 17,
+            "name": "Al Mutaffifin (Ganjil)",
+            "path": "/songs/17. Al Mutaffifin (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 18,
+            "name": "Al Mutaffifin (Genap)",
+            "path": "/songs/18. Al Mutaffifin (Genap).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 19,
+            "name": "Al Insyiqaq (Mundur)",
+            "path": "/songs/19. Al Insyiqaq (Mundur).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 20,
+            "name": "Al Insyiqaq (Ganjil)",
+            "path": "/songs/20. Al Insyiqaq (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 21,
+            "name": "Al Insyiqaq (Genap)",
+            "path": "/songs/21. Al Insyiqaq (Genap).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 22,
+            "name": "Al Buruj (Mundur)",
+            "path": "/songs/22. Al Buruj (Mundur).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 23,
+            "name": "Al Buruj (Ganjil)",
+            "path": "/songs/23. Al Buruuj (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 24,
+            "name": "Al Buruj (Genap)",
+            "path": "/songs/24. Al Buruuj (Genap).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 25,
+            "name": "At Tariq (Mundur)",
+            "path": "/songs/25. At Tariq (Mundur).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 26,
+            "name": "At Tariq (Ganjil)",
+            "path": "/songs/26. At Tariq (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 27,
+            "name": "At Tariq (Genap)",
+            "path": "/songs/27. At Tariq (Genap).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 28,
+            "name": "Al A'laa (Mundur)",
+            "path": "/songs/28. Al A'laa (Mundur).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 29,
+            "name": "Al A'laa (Ganjil)",
+            "path": "/songs/29. Al A'laa (Ganjil).mp3",
+            "lyrics": true
+        },
+        {
+            "id": 30,
+            "name": "Al A'laa (Genap)",
+            "path": "/songs/30. Al A'laa (Genap).mp3",
+            "lyrics": true
         }
     ]
 }
