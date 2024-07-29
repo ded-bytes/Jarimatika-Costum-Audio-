@@ -48,7 +48,7 @@ onBeforeMount(() => {
       </div>
       <img
         class="rounded-full w-[33px]"
-        src="D:\Dev\Kak Ikki\AUDIO\Jarimatika Costum Audio\public\images\quran.png"
+        src="/images/quran.png"
       >
     </div>
   </div>
